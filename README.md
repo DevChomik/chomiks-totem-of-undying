@@ -66,7 +66,11 @@ If the server doesn't match yours, it presses your stop key once.
 
 ## Disclaimer
 
-This is a fan-made tool. It isn't affiliated with Roblox or Sol's RNG, and you use it at your own risk.
+This is a fan-made tool. It isn't affiliated with, endorsed by, or connected to Roblox or Sol's RNG.
+
+- **Use it at your own risk.** Running macros in Roblox games is your own responsibility under Roblox's Terms of Use and the game's rules.
+- **The totem is a safety net, not a guarantee.** It can only stop your macro if your macro reacts to its stop key. Timing, antivirus software or Windows permissions can get in the way. Test it before you rely on it.
+- **The author isn't responsible** for bans, lost progress or anything else that happens while using it. See the [MIT license](LICENSE).
 
 ## License
 
