@@ -1,0 +1,4 @@
+# Built exe goes on the Releases page, not in the repository
+*.exe
+# Settings can contain your webhook URL and server code
+*.ini
